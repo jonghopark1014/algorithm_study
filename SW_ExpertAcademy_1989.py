@@ -1,3 +1,4 @@
+
 for i in range(1, int(input())+1):  
     a = [w for w in input()]
     if a == a[::-1]:  
