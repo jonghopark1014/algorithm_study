@@ -4,3 +4,4 @@ def add_digit(number):
 if __name__ == '__main__':  
     number = input()
     print(add_digit(number))
+    
